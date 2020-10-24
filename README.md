@@ -1,2 +1,2 @@
 # My-blog
-Final project of the HTML course in Sololearn
+Final project of the HTML course in Sololearn.
